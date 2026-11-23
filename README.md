@@ -1,9 +1,10 @@
 # DNA to protein translator
 
 
-🧬 DNA to Protein Translator
+DNA to Protein Translator
 A Python-based bioinformatics tool that converts DNA sequences into mRNA and translates mRNA codons into amino acid sequences using the standard genetic code.
-📌 About the Project
+
+About the Project
 DNA contains the genetic instructions required for protein synthesis.
 
 This project demonstrates the fundamental molecular biology processes of Transcription and Translation using Python.
