@@ -17,3 +17,12 @@ It takes a DNA sequence as input, converts it into mRNA, divides the mRNA into c
 - Identification of stop codons (UAA, UAG, UGA).
 - Translation of codons into amino acids.
 - Generation of a protein sequence.
+-
+- Author
+Mohammad Yusuf
+
+BSc Life Sciences with Computer Applications
+Centre for Interdisciplinary Research in Basic Sciences
+Jamia Millia Islamia
+
+Interests: Bioinformatics | Computational Biology | Python | Molecular Biology
