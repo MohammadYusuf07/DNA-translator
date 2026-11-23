@@ -1,4 +1,4 @@
-# DNA to protein translation
+# DNA to protein translator
 
 
 🧬 DNA to Protein Translator
